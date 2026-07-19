@@ -110,6 +110,11 @@
 
 //functions
 
-function add(x, y) {
-    return x + y;
-}
+// function add(x, y) {
+//     return x + y;
+// }
+
+// let result = add(5, 10);
+// console.log("Result: " + result);
+
+//-----------------------------------------
