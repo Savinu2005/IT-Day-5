@@ -31,8 +31,22 @@
 
 //-----------------------------------------
 
-let x = 10;
-let y = "10";
+// let x = 10;
+// let y = "10";
 
-console.log(x===y);
+// console.log(x===y);
+
+//-----------------------------------------
+
+//logical operators
+
+if (true && true) {
+    console.log("Both are true");
+}
+if (true || false) {
+    console.log("At least one is true");
+}
+if (!false) {
+    console.log("The opposite of false is true");
+} 
 
