@@ -121,10 +121,23 @@
 
 //arrays
 
-let numbers = [1, true, 3, "saman", "sunil"];
-console.log("Numbers: " + numbers);
+// let numbers = [1, true, 3, "saman", "sunil"];
+// console.log("Numbers: " + numbers);
 
-for (let i = 0; i < numbers.length; i++) {
-    console.log("Number: " + numbers[i]);
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log("Number: " + numbers[i]);
+// }
+
+//-----------------------------------------
+
+//objects
+
+
+let customer = {
+    name: "John Doe",
+    age: 30,    
+    isafterAL: true,
+    salary: 4000.90,
 }
 
+console.log(customer);
