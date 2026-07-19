@@ -23,9 +23,16 @@
 //-----------------------------------------
 
 
-let x = 10;
-let y = 5;
+// let x = 10;
+// let y = 5;
 
-let sum = x + y;
-console.log("Sum: " + sum);
+// let sum = x + y;
+// console.log("Sum: " + sum);
+
+//-----------------------------------------
+
+let x = 10;
+let y = "10";
+
+console.log(x===y);
 
