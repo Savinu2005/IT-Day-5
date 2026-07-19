@@ -133,11 +133,13 @@
 //objects
 
 
-let customer = {
-    name: "John Doe",
-    age: 30,    
-    isafterAL: true,
-    salary: 4000.90,
-}
+// let customer = {
+//     name: "John Doe",
+//     age: 30,    
+//     isafterAL: true,
+//     salary: 4000.90,
+// }
 
-console.log(customer);
+// console.log(customer);
+
+//=-----------------------------------------
