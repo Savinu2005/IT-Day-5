@@ -40,13 +40,26 @@
 
 //logical operators
 
-if (true && true) {
-    console.log("Both are true");
+// if (true && true) {
+//     console.log("Both are true");
+// }
+// if (true || false) {
+//     console.log("At least one is true");
+// }
+// if (!false) {
+//     console.log("The opposite of false is true");
+// } 
+
+//-----------------------------------------
+
+let x = 10;
+let y = 5;
+
+if (x > y) {
+    console.log("x is greater than y");
+}else if (x < y) {
+    console.log("x is less than y");
+}else {
+    console.log("x is equal to y");
 }
-if (true || false) {
-    console.log("At least one is true");
-}
-if (!false) {
-    console.log("The opposite of false is true");
-} 
 
