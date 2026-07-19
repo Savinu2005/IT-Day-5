@@ -1,4 +1,10 @@
  console.log("Hello World");
 
 let name = "John Doe";
- console.log(name);
+
+let age = 30;
+
+console.log(name);
+console.log(age);
+
+alert("Welcome to my website!");
