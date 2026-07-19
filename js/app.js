@@ -121,7 +121,7 @@
 
 //arrays
 
-let numbers = [1, 2, 3, 4, 5];
+let numbers = [1, true, 3, "saman", "sunil"];
 console.log("Numbers: " + numbers);
 
 for (let i = 0; i < numbers.length; i++) {
